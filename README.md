@@ -1,16 +1,7 @@
-# gentelella_flutter
+<img src="images/datatable-example-flutter.png">
 
-A new Flutter project.
+<h1>Datatable Example for Flutter</h1>
 
-## Getting Started
+A quick example on how to get data from an API and show it in a datatable widget, in Flutter Web.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As always, this template will be unusuable in mobile devices, and that is on purpose.
